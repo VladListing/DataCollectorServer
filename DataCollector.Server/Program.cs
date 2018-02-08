@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data;
+using MySql.Data.MySqlClient;
 
 namespace DataCollector.Server
 {
@@ -10,6 +12,9 @@ namespace DataCollector.Server
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }
